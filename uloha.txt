@@ -1,0 +1,4 @@
+Nacitajte 3 kladné alebo záporné čísla avypíšte ich ciferný súčet na obrazovku. Zapíšte aj do textového súboru v tvare: "číslo - ciferný_súčet"
+	
+Napr:
+123 - 6 
